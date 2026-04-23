@@ -1,5 +1,5 @@
 import React from "react";
 
-export const practicas = () => {
+export default function practicas() {
   return <div>practicas</div>;
-};
+}

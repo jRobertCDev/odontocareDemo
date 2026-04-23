@@ -1,5 +1,5 @@
 import React from "react";
 
-export const Turnos = () => {
+export default function Turnos() {
   return <div>Turnos</div>;
-};
+}
