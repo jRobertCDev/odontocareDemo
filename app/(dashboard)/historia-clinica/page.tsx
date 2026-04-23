@@ -1,5 +1,5 @@
 import React from "react";
 
-export const HistoriaClinica = () => {
+export default function HistoriaClinica() {
   return <div>HistoriaClinica</div>;
-};
+}
